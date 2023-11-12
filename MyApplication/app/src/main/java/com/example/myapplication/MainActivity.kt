@@ -355,7 +355,7 @@ fun MainActivityPreview() {
     Surface(
         color = AppTheme.BgColors.primary,
     ) {
-        MainActivity()
+        Main()
     }
 }
 
